@@ -78,3 +78,11 @@ Python · PySpark · Databricks · pandas · scikit-learn · MLflow · Matplotli
 This is an independent portfolio project using public flight data.
 
 It reflects my interest in applying systems engineering, data analysis and machine learning to complex operational problems.
+
+## Airport performance
+
+Delay performance varies substantially across airports, and an airline's hub structure creates a distinctive operational footprint.
+
+![Average departure delay by airport](images/hub-delay-performance.png)
+
+*Average departure delay across the airline's network, with principal hubs grouped for comparison. Lower values indicate better departure performance.*
